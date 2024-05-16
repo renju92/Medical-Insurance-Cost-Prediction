@@ -48,4 +48,4 @@ The developed machine learning model demonstrates promising performance in predi
 
 Future Work:
 •	Explore additional features or external datasets to improve model performance.
-•	Deploy the model into production for real-time churn prediction and decision-making.
+•	Deploy the model into production for real-time Charges prediction and decision-making.
